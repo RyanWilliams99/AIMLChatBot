@@ -1,0 +1,21 @@
+0,* BRISTOL ^,*,*,In the South-West of the U.K.,bristol.aiml
+0,* LONDON ^,*,*,Roughly half-way between Hatfield and Severnoaks,bristol.aiml
+0,* BATH ^,*,*,In Somerset,bristol.aiml
+0,* UWE ^,*,*,In north Bristol,bristol.aiml
+0,* BEAUTY ^,*,*,In the eye of the beholder,bristol.aiml
+0,IS BATH IN BRISTOL,*,*,I do not have an answer for that,bristol.aiml
+0,WHAT IS BEAUTY,*,*,A subjective Judgment evoked by an emotional response,bristol.aiml
+0,WHAT IS THE POPULATION OF BRISTOL,*,*,The population of Bristol is about 430000,bristol.aiml
+0,HOW MANY PEOPLE LIVE IN BRISTOL,*,*,The population of Bristol is about 430000,bristol.aiml
+0,WHAT IS THE POPULATION OF BATH,*,*,The population of Bath is about 84000,bristol.aiml
+0,HOW MANY PEOPLE LIVE IN BATH,*,*,The population of Bath is about 84000,bristol.aiml
+0,WHAT IS THE POPULATION OF LONDON,*,*,The population of London is about 8.6 million,bristol.aiml
+0,WHAT IS BRISTOL,*,*,<think><set name="varible2">whatbristol</set></think>Bristol is a city.,bristol.aiml
+0,WHAT IS LONDON,*,*,<think><set name="varible2">whatlondon</set></think>London is a city.,bristol.aiml
+0,WHAT IS UWE,*,*,<srai>*</srai>,bristol.aiml
+0,WHERE IS IT,*,*,<condition name="varible2">#Newline    <li value="whatlondon">Roughly half-way between Hatfield and Severnoaks</li>#Newline    <li value="whatbristol">In the South-West of the U.K.</li>#Newline	<li>I do not have an answer for that</li>#Newline  </condition>,bristol.aiml
+0,WHERE IS KEYNSHAM,*,*,<think><set name="varible">wherekeynsham</set></think>I do not know where Keynsham is,bristol.aiml
+0,HOW MANY PEOPLE LIVE IN SPACE,*,*,<think><set name="varible">space</set></think>I do not know what the population of space is,bristol.aiml
+0,HOW MANY PEOPLE LIVE IN KEYNSHAM,*,*,<think><set name="varible">peoplekeynsham</set></think>#Newline	I do not know what the population of Keynsham is,bristol.aiml
+0,WHY NOT,*,*,<condition name="varible">#Newline    <li value="space">Because it is too hard to count the residents of space</li>#Newline    <li value="peoplekeynsham">Because it is too hard to count the residents of keynsham</li>#Newline	<li value="wherekeynsham">Because I do not have a category to connect me to a mapping service</li>#Newline    <li value="map">Because I do not have a category to connect me to a mapping service</li>#Newline	<li>I do not have an answer for that</li>#Newline  </condition>,bristol.aiml
+0,*,*,*,I do not have an answer for that,bristol.aiml
